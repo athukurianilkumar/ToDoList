@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="error_message">Failed to add TODO</string>
+    <string name="title">Title</string>
+    <string name="save_note">Save Note</string>
+    <string name="notes_screen">NotesScreen</string>
+    <string name="add_note_screen">AddNoteScreen</string>
+</resources>
